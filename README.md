@@ -3,3 +3,11 @@
 >
 > 数据结构在2019年11月15日前将更新完毕
 
+## 已更新内容
+
+### DataStructure
+
+- [链表](https://github.com/thatwys/DataStructurePractice/blob/master/DataStructure/linklist.c)
+- [静态链表](https://github.com/thatwys/DataStructurePractice/blob/master/DataStructure/StaticLinkList.c)
+- [循环链表](https://github.com/thatwys/DataStructurePractice/blob/master/DataStructure/CircleLinkList.c)
+
