@@ -10,7 +10,6 @@
 - [链表](https://github.com/thatwys/DataStructurePractice/blob/master/DataStructure/linklist.c)
 - [静态链表](https://github.com/thatwys/DataStructurePractice/blob/master/DataStructure/StaticLinkList.c)
 - [循环链表](https://github.com/thatwys/DataStructurePractice/blob/master/DataStructure/CircleLinkList.c)
-
 - [栈](https://github.com/thatwys/DataStructurePractice/blob/master/DataStructure/Stack.c)
+- [队列](https://github.com/thatwys/DataStructurePractice/blob/master/DataStructure/Queue.c)
 
-  
