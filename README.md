@@ -15,3 +15,5 @@
 
 - [KMP](https://github.com/thatwys/DataStructurePractice/blob/master/DataStructure/KMP.c)
 
+- [树](https://github.com/thatwys/DataStructurePractice/blob/master/DataStructure/Tree.c)
+
