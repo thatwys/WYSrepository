@@ -13,3 +13,5 @@
 - [栈](https://github.com/thatwys/DataStructurePractice/blob/master/DataStructure/Stack.c)
 - [队列](https://github.com/thatwys/DataStructurePractice/blob/master/DataStructure/Queue.c)
 
+- [KMP](https://github.com/thatwys/DataStructurePractice/blob/master/DataStructure/KMP.c)
+
