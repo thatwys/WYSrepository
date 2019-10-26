@@ -17,3 +17,5 @@
 
 - [树](https://github.com/thatwys/DataStructurePractice/blob/master/DataStructure/Tree.c)
 
+- [二叉树](https://github.com/thatwys/DataStructurePractice/blob/master/DataStructure/BinaryTree.c)
+
