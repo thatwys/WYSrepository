@@ -19,3 +19,5 @@
 
 - [二叉树](https://github.com/thatwys/DataStructurePractice/blob/master/DataStructure/BinaryTree.c)
 
+- [排序](https://github.com/thatwys/DataStructurePractice/blob/master/DataStructure/Sort.c)
+
