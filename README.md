@@ -19,5 +19,9 @@
 
 [计算机网络相关知识](https://github.com/thatwys/WYSrepository/tree/master/ComputerNetworking)
 
+### Operating System
+
+[操作系统相关知识](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+
 
 
